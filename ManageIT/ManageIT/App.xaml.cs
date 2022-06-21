@@ -8,9 +8,11 @@ namespace ManageIT
     {
         public App()
         {
-            InitializeComponent();
+            //InitializeComponent();
 
-            MainPage = new MainPage();
+            //MainPage = new MainPage();
+            InitializeComponent();
+            MainPage = new NavigationPage(new Views.MainLogin.MainLogin());
         }
 
         protected override void OnStart()

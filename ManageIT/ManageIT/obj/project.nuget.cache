@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ueto2Jc+MIKunP7WRZwX8YBCYPRyoiJL1i6fGF1LujmvtbEzP4Gi93meBvImcAoaZRZNM3cS10ceUwDnNYQskA==",
+  "dgSpecHash": "EER6TeIaEBM5QY7nluS0+HPBvn9ovUt0ODdGhUm9XUu6Co3HBhITBbweUgJ6GHo0DfhaF7qxnK2mLVlVVC4dlg==",
   "success": true,
   "projectFilePath": "D:\\sufigit\\ManageIT\\ManageIT\\ManageIT.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sufi\\.nuget\\packages\\acr.userdialogs\\7.2.0.564\\acr.userdialogs.7.2.0.564.nupkg.sha512",
     "C:\\Users\\sufi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sufi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\sufi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

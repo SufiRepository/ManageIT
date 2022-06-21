@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0fmibxTgxyYXQ2R5AsJ+eYHFDX6MiDFGPIkdJJyOuG+qpN4jYfffWFbTBKWjLBl63Fx1gPQuYNp4aksaIs8uzg==",
+  "dgSpecHash": "g1VEUdn+T3DNymuQ0Zsd/j+XaATtFQTRJbmD4QTwH/d2JW6qBuy/6X5W8D09szqMaWrOaTp45Bt7ATmZu+b0kA==",
   "success": true,
   "projectFilePath": "D:\\sufigit\\ManageIT\\ManageIT.iOS\\ManageIT.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sufi\\.nuget\\packages\\acr.userdialogs\\7.2.0.564\\acr.userdialogs.7.2.0.564.nupkg.sha512",
+    "C:\\Users\\sufi\\.nuget\\packages\\btprogresshud\\1.3.5\\btprogresshud.1.3.5.nupkg.sha512",
     "C:\\Users\\sufi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\sufi\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\sufi\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

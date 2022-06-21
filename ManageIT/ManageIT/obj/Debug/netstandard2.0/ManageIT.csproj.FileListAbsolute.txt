@@ -1,0 +1,15 @@
+D:\sufigit\ManageIT\ManageIT\bin\Debug\netstandard2.0\ManageIT.deps.json
+D:\sufigit\ManageIT\ManageIT\bin\Debug\netstandard2.0\ManageIT.dll
+D:\sufigit\ManageIT\ManageIT\bin\Debug\netstandard2.0\ManageIT.pdb
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.csproj.AssemblyReference.cache
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.AssemblyInfoInputs.cache
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.AssemblyInfo.cs
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.csproj.CoreCompileInputs.cache
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\XamlC.stamp
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.dll
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\refint\ManageIT.dll
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ManageIT.pdb
+D:\sufigit\ManageIT\ManageIT\obj\Debug\netstandard2.0\ref\ManageIT.dll
